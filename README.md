@@ -9,4 +9,4 @@ The studying project for practice JavaScript. A work with DOM with a help of Jav
 [DEMO](https://evgenywas.github.io/todo-list/)
 
 ### Preview
-<img src="preview-todo-list.png">
+<img src="preview-todo-list.PNG">
