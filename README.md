@@ -1,5 +1,5 @@
 # Todo list
-The studying project for practice JavaScript. A work with DOM with a help of JavaScript and connect Web Storage API.
+The studying project for practice JavaScript. A work with DOM with help of JavaScript and connect Web Storage API.
 
 ## Done
 1. Created functions for generating DOM-elements with a help JavaScript;
